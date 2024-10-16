@@ -10,6 +10,7 @@ https://sudonull.com/post/64821-Hik-or-hack-NOT-IoT-Security-Using-Hikvision-IP-
 https://ipcamtalk.com/threads/encoding-scheme-for-digcap-dav.4174/
 
 https://ipcamtalk.com/search/6361827/?q=HK20&o=date
+
 https://ipcamtalk.com/threads/you-go-hang-zhou-r6-camera-ds-2cd2x42-firmware-encoding-method.11516/#post-110691
 
 https://ipcamtalk.com/threads/hikvision-firmware-tools-change-language-extract-files-and-create-own-firmware.2664/page-32#post-29663
