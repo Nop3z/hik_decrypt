@@ -18,3 +18,14 @@ https://ipcamtalk.com/threads/hikvision-firmware-tools-change-language-extract-f
 https://ipcamtalk.com/threads/how-to-extract-dav-firmware-files-for-hikvision-cameras.71444/#post-785771
 
 http://www.f0und.icu/article/31.html
+
+# 文件头
+SWKH 02KH KH20
+# 解密工具
+hipack(一个国外大佬开发的解密工具)
+
+hikvision-master(解包原理是将加密固件分为头部和剩余部分 先将头部进行异或处理 然后根据文件头计算出固件的checksum offset filesize filename)
+
+packFirmwareH5(原理和hikvision-master基本一致)
+
+scripts(同上)
